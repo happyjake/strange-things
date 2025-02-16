@@ -1,0 +1,3 @@
+AND,((USER-AGENT,Ask/*), (DOMAIN-SUFFIX, perplexity.ai))
+AND,((USER-AGENT,Perplexity/*CFNetwork/*), (DOMAIN-SUFFIX, perplexity.ai))
+AND,((USER-AGENT,AppleCoreMedia/*), (DOMAIN-SUFFIX, perplexity.ai))
